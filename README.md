@@ -1,4 +1,4 @@
-> A Solution made with Microsoft PowerApps that enables Manager/Team Leader to collect, store, and analyze data on the performance of their business processes and operations. The tool provides a web-based interface for data entry and reporting, and can be customized to track any metric they wish to measure. The Metrics Logger and Performance Monitoring Tool can help Manager/TL improve the efficiency and effectiveness of their business by roviding visibility into areas of weakness and opportunity.
+A Solution made with Microsoft PowerApps that enables Manager/Team Leader to collect, store, and analyze data on the performance of their business processes and operations. The tool provides a web-based interface for data entry and reporting, and can be customized to track any metric they wish to measure. The Metrics Logger and Performance Monitoring Tool can help Manager/TL improve the efficiency and effectiveness of their business by roviding visibility into areas of weakness and opportunity.
 
 ### Features
 
