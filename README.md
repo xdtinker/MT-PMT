@@ -3,13 +3,13 @@ A Solution made with Microsoft PowerApps that enables Manager/Team Leader to col
 
 ### Features
 
-- Log performance metrics for web applications hosted on Microsoft IIS server
+- Log performance metrics
 
-- Collect data on request rates, response times, database query times, and other performance indicators
+- Collect data on performance indicators
 
 - Store data in SharePoint for analysis and reporting
 
-- Use Power BI to create visualizations and reports on performance data
+- visualizations and reports on performance data
 
 - Monitor trends over time and identify areas of improvement
 
